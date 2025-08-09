@@ -52,7 +52,7 @@
 	<build>
 	
 	<finalName>
-	springbootdemoproject
+	myspringboot
 	</finalName>
 		<plugins>
 			<plugin>
