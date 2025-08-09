@@ -16,6 +16,11 @@ public class ClientController
 		return "Jenkins Demo";
 	}
 	
+	@GetMapping("/test")
+	public String test() {
+		return "testing for a purpose";
+	}
+	
 	
 
 }
